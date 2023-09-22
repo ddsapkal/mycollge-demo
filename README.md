@@ -1,4 +1,4 @@
 # mycollge-demo
 This is my Git Repository
 <br> 
-Author- D.D.S.
+Author- D.D.S. Cool 
